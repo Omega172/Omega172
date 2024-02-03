@@ -6,5 +6,17 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord: ./Omega#0001 or Email: omega@omegaware.xyz | Discord or an Issue is the best way to contact me or get help, because I don't check my email often.
 
+# Currently Working On (In order):
+- [Palworld Cheat](https://github.com/Omega172/Palworld-Cheat) <-- Priority
+- [Dead Island 2 Cheat](https://github.com/Omega172/Dead-Island-2-Cheat)
+- ARK Survival Ascended
+
+Moving over to [My Framework](https://github.com/Omega172/My-Framework):
+- [Crush Crush Cheat](https://github.com/Omega172/Crush-Crush-Cheat)
+- [Blush Blush Cheat](https://github.com/Omega172/Blush-Blush-Cheat)
+- [Borderlands 3 Cheat](https://github.com/Omega172/Borderlands-3-Cheat)
+- [Deep Rock Galactic](https://github.com/Omega172/Deep-Rock-Galactic-Cheat)
+- Way Of The Hunter (Unpublished)
+
 # My most used languages
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Omega172&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
