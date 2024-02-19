@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Unreal Engine hacking
 - 👯 I’m looking to collaborate on any game hacking or game reversal projects
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord: ./Omega#0001 or Email: omega@omegaware.xyz | Discord or an Issue is the best way to contact me or get help, because I don't check my email often.
+- 📫 How to reach me: Discord: @omega172 or Email: omega@omegaware.xyz | Discord or an Issue is the best way to contact me or get help, because I don't check my email often.
 
 # Currently Working On (In order):
 - [Palworld Cheat](https://github.com/Omega172/Palworld-Cheat) <-- Priority
