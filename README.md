@@ -6,7 +6,6 @@
 - 📫 How to reach me: Discord: @omega172 or Email: omega@omegaware.xyz | Discord or an Issue is the best way to contact me or get help, because I don't check my email often.
 
 # Currently Working On (In order):
-- [Palworld Cheat](https://github.com/Omega172/Palworld-Cheat) <-- Priority
 - [Dead Island 2 Cheat](https://github.com/Omega172/Dead-Island-2-Cheat)
 - ARK Survival Ascended
 
