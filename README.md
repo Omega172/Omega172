@@ -2,7 +2,8 @@
 
 - 👯 I’m looking to collaborate on any project where you think my skills might be helpful
 - 📫 Contact me:
-  -- Discord: @omega172 or Email: omega@omegaware.xyz
+  -  Discord: @omega172
+  -  Email: omega@omegaware.xyz
 
 # Check out my [framework](https://github.com/Omega172/OmegaWare-Framework):
 
