@@ -5,12 +5,12 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord: @omega172 or Email: omega@omegaware.xyz | Discord or an Issue is the best way to contact me or get help, because I don't check my email often.
 
-# Check out [My Framework](https://github.com/Omega172/OmegaWare-Framework):
+# Check out my [framework](https://github.com/Omega172/OmegaWare-Framework):
 
 # Currently Working On (In order):
 - [Dead Island 2 Cheat](https://github.com/Omega172/Dead-Island-2-Cheat)
 
-Moving over to [My Framework](https://github.com/Omega172/My-Framework):
+Moving over to my [framework](https://github.com/Omega172/OmegaWare-Framework):
 - [Blush Blush Cheat](https://github.com/Omega172/Blush-Blush-Cheat)
 - [Borderlands 3 Cheat](https://github.com/Omega172/Borderlands-3-Cheat)
 - [Deep Rock Galactic Cheat](https://github.com/Omega172/Deep-Rock-Galactic-Cheat)
