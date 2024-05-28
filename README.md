@@ -7,7 +7,6 @@
 
 # Currently Working On (In order):
 - [Dead Island 2 Cheat](https://github.com/Omega172/Dead-Island-2-Cheat)
-- ARK Survival Ascended
 
 Moving over to [My Framework](https://github.com/Omega172/My-Framework):
 - [Blush Blush Cheat](https://github.com/Omega172/Blush-Blush-Cheat)
