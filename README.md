@@ -16,6 +16,6 @@ Moving over to my [framework](https://github.com/Omega172/OmegaWare-Framework):
 - [Deep Rock Galactic Cheat](https://github.com/Omega172/Deep-Rock-Galactic-Cheat)
 - Way Of The Hunter (Unpublished)
 
-# My most used languages
+# My stats
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Omega172&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Omega172&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
