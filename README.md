@@ -1,9 +1,8 @@
 ### Hello, I am Omega and welcome to my GitHub profile.
 
-- 🌱 I’m currently learning Unreal Engine hacking
-- 👯 I’m looking to collaborate on any game hacking or game reversal projects
-- 💬 Ask me about anything
-- 📫 How to reach me: Discord: @omega172 or Email: omega@omegaware.xyz | Discord or an Issue is the best way to contact me or get help, because I don't check my email often.
+- 👯 I’m looking to collaborate on any project where you think my skills might be helpful
+- 📫 Contact me:
+  -- Discord: @omega172 or Email: omega@omegaware.xyz
 
 # Check out my [framework](https://github.com/Omega172/OmegaWare-Framework):
 
