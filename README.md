@@ -7,7 +7,7 @@
 
 # Check out my [framework](https://github.com/Omega172/OmegaWare-Framework):
 
-# Currently Working On (In order):
+# Currently Working On:
 - [Dead Island 2 Cheat](https://github.com/Omega172/Dead-Island-2-Cheat)
 
 Moving over to my [framework](https://github.com/Omega172/OmegaWare-Framework):
