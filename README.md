@@ -4,7 +4,7 @@
 - I’m looking to collaborate on any project where you think my skills might be helpful
 - Contact me:
   -  Discord: @omega172 (If you contact me here my first message to you will most likely be "Reason for add?" 
-  -  Email: omega@omegaware.xyz
+  -  Email: omega@omegaware.xyz (I don't check my email often)
 
 # Check out my [framework](https://github.com/Omega172/OmegaWare-Framework)
 
