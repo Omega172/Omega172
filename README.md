@@ -1,4 +1,4 @@
-### Hello, I am Omega and welcome to my GitHub profile.
+### Hello, I am Omega and welcome to my GitHub profile. 
 
 - I make game hacks/cheats and mods for single player/non-competitive games as well as other random tools and things
 - I’m looking to collaborate on any project where you think my skills might be helpful
@@ -11,3 +11,5 @@
 # My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Omega172&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omega172&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+# Join our [discord](https://discord.gg/zc8E7dYYRe)!
