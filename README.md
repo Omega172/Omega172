@@ -7,6 +7,8 @@
   -  Email: omega@omegaware.xyz (I don't check my email often)
 - join my [discord](https://discord.gg/zc8E7dYYRe)
 
+- IF YOU DM ME ABOUT INSTALLATION/USAGE INSTRUCTIONS I WILL BLOCK YOU, every one of my mod/cheat repos has installation/usage instructions if you cannot read thats not my problem. THe only exception is if a link to a guide is broken.
+
 # Check out my [framework](https://github.com/Omega172/OmegaWare-Framework)
 
 # My stats
