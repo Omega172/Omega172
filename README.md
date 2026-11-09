@@ -22,12 +22,12 @@ A modular C++ framework for game development tooling and runtime instrumentation
 
 [View Project →](https://github.com/Omega172/OmegaWare-Framework)
 
-### OmegaWare Addons
-A collection of Minecraft/Fabric development projects featuring automation, rendering systems, gameplay utilities and integrations.
+### Baritone Automated Builder
+A Minecraft/Fabric projects featuring automation, rendering systems, and integrations, for automated building.
 
 **Java · Fabric · Minecraft · Gradle**
 
-[View Project →](https://github.com/Omega172/OmegaWare-Addons)
+[View Project →](https://github.com/Omega172/Baritone-Automated-Builder)
 
 ## About Me
 
