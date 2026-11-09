@@ -51,4 +51,4 @@ I'm always interested in technically challenging projects and opportunities to b
 
 # My stats
 [![Top Langs](https://github-stats-extended.vercel.app/api?username=Omega172&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api?top-langs/?username=Omega172&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api?top-langs&username=Omega172&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
