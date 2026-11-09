@@ -50,5 +50,5 @@ I'm always interested in technically challenging projects and opportunities to b
   - join my [discord](https://discord.gg/zc8E7dYYRe)
 
 # My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Omega172&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omega172&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api?username=Omega172&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api?top-langs/?username=Omega172&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
